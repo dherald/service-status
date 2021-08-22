@@ -11,8 +11,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://dherald.github.io/service-status/
-  # baseUrl: /your-repo-name
+  # cname: https://dherald.github.io/service-status/
+  baseUrl: /service-status
   logoUrl: https://dherald.com/images/logo/top_logo.png
   name: Service Status
   introTitle: "**디지털헤럴드** 웹사이트 모니터링 및 서비스 상태 페이지"
