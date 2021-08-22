@@ -3,11 +3,49 @@ owner: dherald # Your GitHub organization or username, where this repository liv
 repo: service-status # The name of this repository
 
 sites:
-  - name: GAMEEYE B2C
+  - name: 롤 전적 검색 딥롤
     url: https://www.deeplol.gg
-  - name: GAMEEYE B2B
+  - name: DEEPLOL PRO
     url: https://pro.deeplol.gg
-  
+  - name: 서강대학교 경영전문대학원 온라인 단기 MBA
+    url: https://sogang.dherald.com
+  - name: 한국외국어대학교 경영대학원 bfMBA
+    url: https://bfmba.ac.kr/
+  - name: 아주대학교 공공정책대학원 MPA
+    url: https://ajoumpa.ac.kr/
+  - name: 프렌치마스터
+    url: https://frenchmaster.co.kr
+  - name: 일어마스터
+    url: https://japanesemaster.co.kr/
+  - name: AI & Big Data Education Center
+    url: https://abedu.co.kr/
+  - name: 아나운서 코치
+    url: https://announcercoach.co.kr/
+  - name: 미국 고등 검정고시 GED 공식 교육 센터
+    url: https://gedpass.co.kr/
+  - name: 통대닷컴
+    url: https://tongdae.com/
+  - name: 헤럴드이프렙
+    url: https://heraldeprep.com/
+  - name: 헤럴드해외취업센터 K-Move
+    url: https://heraldjob.com/
+  - name: KTIGERS
+    url: https://ktigers.org/
+  - name: PTE Pass 공식 교육센터
+    url: https://ptepass.co.kr/
+  - name: 코리아헤럴드학원
+    url: https://heraldstudy.com/
+  - name: 코리아헤럴드통번역센터
+    url: https://heraldtrans.com/
+  - name: HIS 헤럴드교육센터
+    url: https://hisacademy.co.kr/
+  - name: HIS BOOKS
+    url: https://hisbook.co.kr/   
+  - name: PTE Academic 공식 시험센터
+    url: https://herald.ptea.co.kr/
+  - name: HIS 헤럴드교육센터
+    url: https://hisacademy.co.kr/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -15,13 +53,11 @@ status-website:
   baseUrl: /service-status
   logoUrl: https://dherald.com/images/logo/top_logo.png
   name: Service Status
-  introTitle: "**디지털헤럴드** 웹사이트 모니터링 및 서비스 상태 페이지"
+  introTitle: "**디지털헤럴드** 서비스 모니터링 및 상태 페이지"
   introMessage: 디지털헤럴드 개발팀
   navbar:
-    - title: Service Status
-      href: https://dherald.github.io/service-status/
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+    - title: DHERALD
+      href: https://dherald.com
+    
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
