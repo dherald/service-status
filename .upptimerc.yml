@@ -19,7 +19,7 @@ status-website:
   introMessage: 디지털헤럴드 개발팀
   navbar:
     - title: Service Status
-      href: /
+      href: https://dherald.github.io/service-status/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
