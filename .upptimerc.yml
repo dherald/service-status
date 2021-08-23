@@ -3,48 +3,54 @@ owner: dherald # Your GitHub organization or username, where this repository liv
 repo: service-status # The name of this repository
 
 sites:
-  - name: 롤 전적 검색 딥롤
+  - name: www.deeplol.gg
     url: https://www.deeplol.gg
-  - name: DEEPLOL PRO
+  - name: b2c-api.deeplol.gg
+    url: https://b2c-api.deeplol.gg/live   
+  - name: pro.deeplol.gg
     url: https://pro.deeplol.gg
-  - name: 서강대학교 경영전문대학원 온라인 단기 MBA
+  - name: sogang.dherald.com
     url: https://sogang.dherald.com
-  - name: 한국외국어대학교 경영대학원 bfMBA
+  - name: bfmba.ac.kr
     url: https://bfmba.ac.kr/
-  - name: 아주대학교 공공정책대학원 MPA
+  - name: ajoumpa.ac.kr
     url: https://ajoumpa.ac.kr/
-  - name: 프렌치마스터
+  - name: frenchmaster.co.kr
     url: https://frenchmaster.co.kr
-  - name: 일어마스터
+  - name: japanesemaster.co.kr
     url: https://japanesemaster.co.kr/
-  - name: AI & Big Data Education Center
+  - name: abedu.co.kr
     url: https://abedu.co.kr/
-  - name: 아나운서 코치
+  - name: announcercoach.co.kr
     url: https://announcercoach.co.kr/
-  - name: 미국 고등 검정고시 GED 공식 교육 센터
+  - name: gedpass.co.kr
     url: https://gedpass.co.kr/
-  - name: 통대닷컴
+  - name: tongdae.com
     url: https://tongdae.com/
-  - name: 헤럴드이프렙
+  - name: heraldeprep.com
     url: https://heraldeprep.com/
-  - name: 헤럴드해외취업센터 K-Move
+  - name: heraldjob.com
     url: https://heraldjob.com/
-  - name: KTIGERS
+  - name: ktigers.org
     url: https://ktigers.org/
-  - name: PTE Pass 공식 교육센터
+  - name: ptepass.co.kr
     url: https://ptepass.co.kr/
-  - name: 코리아헤럴드학원
+  - name: heraldstudy.com
     url: https://heraldstudy.com/
-  - name: 코리아헤럴드통번역센터
+  - name: heraldtrans.com
     url: https://heraldtrans.com/
-  - name: HIS 헤럴드교육센터
+  - name: hisacademy.co.kr
     url: https://hisacademy.co.kr/
-  - name: HIS BOOKS
+  - name: hisbook.co.kr
     url: https://hisbook.co.kr/   
-  - name: PTE Academic 공식 시험센터
+  - name: herald.ptea.co.kr
     url: https://herald.ptea.co.kr/
-  - name: HIS 헤럴드교육센터
+  - name: hisacademy.co.kr
     url: https://hisacademy.co.kr/
+  - name: heraldinsight.co.kr
+    url: http://heraldinsight.co.kr/    
+  - name: heraldtomorrow.co.kr
+    url: http://heraldtomorrow.co.kr/        
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
