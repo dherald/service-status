@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/b2c-api.deeplol.gg",
     "slug": "b2c-api-deeplol-gg",
     "status": "down",
-    "uptime": "40.49%",
+    "uptime": "40.44%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.49%",
-    "uptimeMonth": "40.49%",
-    "uptimeYear": "40.49%",
+    "uptimeWeek": "40.44%",
+    "uptimeMonth": "40.44%",
+    "uptimeYear": "40.44%",
     "time": 743,
     "timeDay": 830,
     "timeWeek": 743,
     "timeMonth": 743,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2021-08-26": 1171,
+      "2021-08-26": 1178,
       "2021-08-25": 1353,
       "2021-08-23": 654
     }
@@ -404,19 +404,19 @@
     "url": "http://heraldinsight.co.kr/",
     "icon": "https://favicons.githubusercontent.com/heraldinsight.co.kr",
     "slug": "heraldinsight-co-kr",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1779,
-    "timeDay": 1765,
-    "timeWeek": 1779,
-    "timeMonth": 1779,
-    "timeYear": 1779,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1760,
+    "timeDay": 1724,
+    "timeWeek": 1760,
+    "timeMonth": 1760,
+    "timeYear": 1760,
     "dailyMinutesDown": {
-      "2021-08-26": 1
+      "2021-08-26": 8
     }
   },
   {
@@ -424,19 +424,19 @@
     "url": "http://heraldtomorrow.co.kr/",
     "icon": "https://favicons.githubusercontent.com/heraldtomorrow.co.kr",
     "slug": "heraldtomorrow-co-kr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1719,
-    "timeDay": 1604,
-    "timeWeek": 1719,
-    "timeMonth": 1719,
-    "timeYear": 1719,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1749,
+    "timeDay": 1736,
+    "timeWeek": 1749,
+    "timeMonth": 1749,
+    "timeYear": 1749,
     "dailyMinutesDown": {
-      "2021-08-26": 0
+      "2021-08-26": 7
     }
   }
 ]
