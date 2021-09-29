@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/b2c-api.deeplol.gg",
     "slug": "b2c-api-deeplol-gg",
     "status": "up",
-    "uptime": "73.09%",
+    "uptime": "73.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
-    "uptimeMonth": "81.88%",
-    "uptimeYear": "73.09%",
+    "uptimeMonth": "84.44%",
+    "uptimeYear": "73.64%",
     "time": 712,
     "timeDay": 792,
     "timeWeek": 669,
@@ -58,12 +58,12 @@
     "slug": "pro-deeplol-gg",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "96.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.68%",
     "time": 859,
-    "timeDay": 812,
+    "timeDay": 1058,
     "timeWeek": 814,
     "timeMonth": 852,
     "timeYear": 859,
@@ -81,10 +81,10 @@
     "url": "https://sogang.dherald.com",
     "icon": "https://favicons.githubusercontent.com/sogang.dherald.com",
     "slug": "sogang-dherald-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 874,
@@ -92,17 +92,19 @@
     "timeWeek": 841,
     "timeMonth": 856,
     "timeYear": 874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "bfmba.ac.kr",
     "url": "https://bfmba.ac.kr/",
     "icon": "https://favicons.githubusercontent.com/bfmba.ac.kr",
     "slug": "bfmba-ac-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1504,
@@ -110,17 +112,19 @@
     "timeWeek": 1668,
     "timeMonth": 1608,
     "timeYear": 1504,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "ajoumpa.ac.kr",
     "url": "https://ajoumpa.ac.kr/",
     "icon": "https://favicons.githubusercontent.com/ajoumpa.ac.kr",
     "slug": "ajoumpa-ac-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 961,
@@ -128,17 +132,19 @@
     "timeWeek": 929,
     "timeMonth": 945,
     "timeYear": 961,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "frenchmaster.co.kr",
     "url": "https://frenchmaster.co.kr",
     "icon": "https://favicons.githubusercontent.com/frenchmaster.co.kr",
     "slug": "frenchmaster-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1242,
@@ -146,17 +152,19 @@
     "timeWeek": 1191,
     "timeMonth": 1217,
     "timeYear": 1242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "japanesemaster.co.kr",
     "url": "https://japanesemaster.co.kr/",
     "icon": "https://favicons.githubusercontent.com/japanesemaster.co.kr",
     "slug": "japanesemaster-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 922,
@@ -164,17 +172,19 @@
     "timeWeek": 904,
     "timeMonth": 911,
     "timeYear": 922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "abedu.co.kr",
     "url": "https://abedu.co.kr/",
     "icon": "https://favicons.githubusercontent.com/abedu.co.kr",
     "slug": "abedu-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 928,
@@ -182,17 +192,19 @@
     "timeWeek": 899,
     "timeMonth": 913,
     "timeYear": 928,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "announcercoach.co.kr",
     "url": "https://announcercoach.co.kr/",
     "icon": "https://favicons.githubusercontent.com/announcercoach.co.kr",
     "slug": "announcercoach-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 928,
@@ -200,17 +212,19 @@
     "timeWeek": 911,
     "timeMonth": 916,
     "timeYear": 928,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "gedpass.co.kr",
     "url": "https://gedpass.co.kr/",
     "icon": "https://favicons.githubusercontent.com/gedpass.co.kr",
     "slug": "gedpass-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 945,
@@ -218,17 +232,19 @@
     "timeWeek": 916,
     "timeMonth": 932,
     "timeYear": 945,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "tongdae.com",
     "url": "https://tongdae.com/",
     "icon": "https://favicons.githubusercontent.com/tongdae.com",
     "slug": "tongdae-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
@@ -236,17 +252,19 @@
     "timeWeek": 658,
     "timeMonth": 681,
     "timeYear": 691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "heraldeprep.com",
     "url": "https://heraldeprep.com/",
     "icon": "https://favicons.githubusercontent.com/heraldeprep.com",
     "slug": "heraldeprep-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1005,
@@ -254,7 +272,9 @@
     "timeWeek": 963,
     "timeMonth": 991,
     "timeYear": 1005,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "heraldjob.com",
@@ -279,10 +299,10 @@
     "url": "https://ktigers.org/",
     "icon": "https://favicons.githubusercontent.com/ktigers.org",
     "slug": "ktigers-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 821,
@@ -290,17 +310,19 @@
     "timeWeek": 784,
     "timeMonth": 794,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "ptepass.co.kr",
     "url": "https://ptepass.co.kr/",
     "icon": "https://favicons.githubusercontent.com/ptepass.co.kr",
     "slug": "ptepass-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 953,
@@ -308,16 +330,18 @@
     "timeWeek": 914,
     "timeMonth": 942,
     "timeYear": 953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 1
+    }
   },
   {
     "name": "heraldstudy.com",
     "url": "https://heraldstudy.com/",
     "icon": "https://favicons.githubusercontent.com/heraldstudy.com",
     "slug": "heraldstudy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -326,16 +350,18 @@
     "timeWeek": 824,
     "timeMonth": 840,
     "timeYear": 852,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "heraldtrans.com",
     "url": "https://heraldtrans.com/",
     "icon": "https://favicons.githubusercontent.com/heraldtrans.com",
     "slug": "heraldtrans-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -344,16 +370,18 @@
     "timeWeek": 650,
     "timeMonth": 672,
     "timeYear": 682,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "hisacademy.co.kr",
     "url": "https://hisacademy.co.kr/",
     "icon": "https://favicons.githubusercontent.com/hisacademy.co.kr",
     "slug": "hisacademy-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -362,16 +390,18 @@
     "timeWeek": 671,
     "timeMonth": 673,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "hisbook.co.kr",
     "url": "https://hisbook.co.kr/",
     "icon": "https://favicons.githubusercontent.com/hisbook.co.kr",
     "slug": "hisbook-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -380,16 +410,18 @@
     "timeWeek": 1099,
     "timeMonth": 1156,
     "timeYear": 1162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "herald.ptea.co.kr",
     "url": "https://herald.ptea.co.kr/",
     "icon": "https://favicons.githubusercontent.com/herald.ptea.co.kr",
     "slug": "herald-ptea-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -398,16 +430,18 @@
     "timeWeek": 886,
     "timeMonth": 907,
     "timeYear": 920,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "hisacademy.co.kr",
     "url": "https://hisacademy.co.kr/",
     "icon": "https://favicons.githubusercontent.com/hisacademy.co.kr",
     "slug": "hisacademy-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -416,7 +450,9 @@
     "timeWeek": 671,
     "timeMonth": 673,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "heraldinsight.co.kr",
