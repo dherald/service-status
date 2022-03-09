@@ -1,7 +1,7 @@
 url: https://b2c-api.deeplol.gg/live
-status: up
-code: 200
-responseTime: 629
-lastUpdated: 2022-03-09T19:48:40.607Z
+status: down
+code: 504
+responseTime: 10857
+lastUpdated: 2022-03-09T19:56:52.847Z
 startTime: Mon Aug 23 2021 02:30:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
