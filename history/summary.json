@@ -4,18 +4,20 @@
     "url": "https://www.deeplol.gg",
     "icon": "https://favicons.githubusercontent.com/www.deeplol.gg",
     "slug": "www-deeplol-gg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 203,
-    "timeWeek": 209,
-    "timeMonth": 217,
+    "timeDay": 152,
+    "timeWeek": 195,
+    "timeMonth": 213,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "b2c-api.deeplol.gg",
@@ -306,18 +308,20 @@
     "url": "https://heraldjob.com/",
     "icon": "https://favicons.githubusercontent.com/heraldjob.com",
     "slug": "heraldjob-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 285,
-    "timeWeek": 364,
-    "timeMonth": 314,
+    "timeDay": 198,
+    "timeWeek": 333,
+    "timeMonth": 308,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-15": 1
+    }
   },
   {
     "name": "ktigers.org",
