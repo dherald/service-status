@@ -4,19 +4,19 @@
     "url": "https://www.deeplol.gg",
     "icon": "https://favicons.githubusercontent.com/www.deeplol.gg",
     "slug": "www-deeplol-gg",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 195,
-    "timeWeek": 204,
+    "timeDay": 200,
+    "timeWeek": 205,
     "timeMonth": 215,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 8
     }
   },
   {
@@ -308,19 +308,19 @@
     "url": "https://heraldjob.com/",
     "icon": "https://favicons.githubusercontent.com/heraldjob.com",
     "slug": "heraldjob-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 207,
-    "timeWeek": 300,
-    "timeMonth": 300,
+    "timeDay": 232,
+    "timeWeek": 304,
+    "timeMonth": 301,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2022-06-15": 22
+      "2022-06-15": 30
     }
   },
   {
