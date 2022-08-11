@@ -1,7 +1,7 @@
 url: http://heraldtomorrow.co.kr/
-status: up
-code: 200
-responseTime: 1419
-lastUpdated: 2022-08-10T23:16:06.783Z
+status: down
+code: 503
+responseTime: 1333
+lastUpdated: 2022-08-11T19:09:47.161Z
 startTime: Mon Aug 23 2021 02:31:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
