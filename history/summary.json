@@ -30,14 +30,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.80%",
+    "uptimeYear": "73.79%",
     "time": 1786,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 748,
     "timeYear": 1991,
     "dailyMinutesDown": {
-      "2022-11-04": 872,
+      "2022-11-04": 898,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
@@ -497,7 +497,7 @@
     "uptime": "97.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.35%",
+    "uptimeMonth": "66.29%",
     "uptimeYear": "97.19%",
     "time": 1121,
     "timeDay": 0,
@@ -505,7 +505,7 @@
     "timeMonth": 1166,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2022-11-04": 873,
+      "2022-11-04": 899,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
@@ -566,11 +566,11 @@
     "url": "http://heraldinsight.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/heraldinsight.co.kr.ico",
     "slug": "heraldinsight-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1756,
     "timeDay": 1425,
@@ -578,7 +578,7 @@
     "timeMonth": 2362,
     "timeYear": 1788,
     "dailyMinutesDown": {
-      "2022-11-04": 14
+      "2022-11-04": 1
     }
   },
   {
