@@ -37,7 +37,7 @@
     "timeMonth": 763,
     "timeYear": 1996,
     "dailyMinutesDown": {
-      "2022-11-06": 669,
+      "2022-11-06": 684,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
@@ -496,10 +496,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/hisbook.co.kr.ico",
     "slug": "hisbook-co-kr",
     "status": "down",
-    "uptime": "97.19%",
+    "uptime": "97.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.24%",
+    "uptimeMonth": "60.21%",
     "uptimeYear": "96.68%",
     "time": 1121,
     "timeDay": 0,
@@ -507,7 +507,7 @@
     "timeMonth": 1177,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2022-11-06": 670,
+      "2022-11-06": 685,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
@@ -570,10 +570,10 @@
     "url": "http://heraldinsight.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/heraldinsight.co.kr.ico",
     "slug": "heraldinsight-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
     "time": 1760,
@@ -582,7 +582,7 @@
     "timeMonth": 2340,
     "timeYear": 1793,
     "dailyMinutesDown": {
-      "2022-11-06": 33,
+      "2022-11-06": 34,
       "2022-11-05": 20,
       "2022-11-04": 22
     }
@@ -594,9 +594,9 @@
     "slug": "heraldtomorrow-co-kr",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 1755,
     "timeDay": 2290,
@@ -604,7 +604,6 @@
     "timeMonth": 2317,
     "timeYear": 1784,
     "dailyMinutesDown": {
-      "2022-11-06": 14,
       "2022-11-04": 52
     }
   }
