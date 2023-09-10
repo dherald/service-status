@@ -1,7 +1,7 @@
 url: http://heraldinsight.co.kr/
-status: up
-code: 200
-responseTime: 1838
-lastUpdated: 2023-09-09T23:11:24.780Z
+status: down
+code: 503
+responseTime: 896
+lastUpdated: 2023-09-10T19:18:23.689Z
 startTime: 2021-08-23T02:31:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
